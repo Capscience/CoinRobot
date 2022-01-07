@@ -1,2 +1,4 @@
 # CoinRobot
-A simple game created with pygame
+Ohjelmoinnin Mooc 2021 -kurssin osan 14 peli
+
+Tehnyt Simo Soini
